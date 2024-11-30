@@ -8,7 +8,7 @@ To use:
   2. Double-click run.exe.
   3. Adjust the delay settings as needed to optimize performance and avoid detection.
 
-Important Considerations: HII
+Important Considerations:
 
   This script currently only functions in fullscreen mode. Support for different resolutions will be added in future updates.
   
