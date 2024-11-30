@@ -3,7 +3,6 @@ import cv2
 
 
 script_dir = os.path.abspath(__file__)
-print(script_dir)
 
 img_dir = os.path.join(os.path.dirname(script_dir), "img")
 take_img = cv2.imread(os.path.join(img_dir, "mino", "hand.jpg"))

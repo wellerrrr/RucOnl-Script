@@ -103,7 +103,6 @@ class MobHunter:
                 pyautogui.moveTo(closest_mob_center_x, closest_mob_center_y, duration=0.1)
                 pyautogui.click(button='left')
                 self.last_click_time = time.time()
-                pyautogui.press('w')
 
             cv2.imwrite('result.jpg', haystack_img)
             cv2.waitKey(0)
