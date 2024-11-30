@@ -10,6 +10,6 @@ To use:
 
 Important Considerations:
 
-  This script currently only functions in fullscreen mode. Support for different resolutions will be added in future updates. Helo
+  This script currently only functions in fullscreen mode. Support for different resolutions will be added in future updates.
   
 If you encounter any issues or wish to request a similar bot for other areas or monsters, or if you’d like to contribute to its development, feel free to contact me on Telegram: @Trustmemate
